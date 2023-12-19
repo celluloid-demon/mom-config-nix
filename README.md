@@ -1,0 +1,3 @@
+# mom-config-nix
+
+Todo.
